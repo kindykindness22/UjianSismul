@@ -28,7 +28,7 @@
 <body>
 
 <audio autoplay loop hidden>
-    <source src="bgmusic.ogg" type="audio/ogg">
+    <source src="bgmusic.flac" type="audio/flac">
 </audio>
 
 <header>
